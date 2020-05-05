@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Ahmed Khalil",
+  "classifications": [ "Common", "Console", "C#8" , "Web", "Architecture" , "NTier" ],
+  "identity": "NtierArchitecture.DAL",
+  "name": "Data Access Layer  Web",
+  "sourceName": "NTier",
+  "shortName": "NTierDALSQLSERVER",
+  "tags": {
+    "language": "C#"
+  }
+}
